@@ -2,10 +2,8 @@
 # platform :ios, '11.0'
 
 target 'Example_iOS' do
-  # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for Example_iOS
   pod 'cmark-gfm', :path => '../../'
 
 end
