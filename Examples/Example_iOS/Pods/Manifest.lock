@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../../"
 
 SPEC CHECKSUMS:
-  cmark-gfm: 41530d56376b97650b57572ba7458d67491790d2
+  cmark-gfm: ae59c490e931c94a06a6189bacac2b5ac42aa6de
 
 PODFILE CHECKSUM: 5f3aafbecab242fc29d9f9e251aed717e83efcf2
 
