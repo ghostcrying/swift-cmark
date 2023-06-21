@@ -13,18 +13,18 @@
 		9EEA67CA2A42DA8E008E8EE8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EEA67C82A42DA8E008E8EE8 /* Main.storyboard */; };
 		9EEA67CC2A42DA8F008E8EE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EEA67CB2A42DA8F008E8EE8 /* Assets.xcassets */; };
 		9EEA67CF2A42DA8F008E8EE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EEA67CD2A42DA8F008E8EE8 /* LaunchScreen.storyboard */; };
-		9EEA67DF2A42DF85008E8EE8 /* cmark_gfm.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EEA67DE2A42DF85008E8EE8 /* cmark_gfm.xcframework */; };
-		9EEA67E02A42DF85008E8EE8 /* cmark_gfm.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9EEA67DE2A42DF85008E8EE8 /* cmark_gfm.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		9EEA67E72A42E17A008E8EE8 /* cmark_gfm.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EEA67E62A42E17A008E8EE8 /* cmark_gfm.xcframework */; };
+		9EEA67E82A42E17A008E8EE8 /* cmark_gfm.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9EEA67E62A42E17A008E8EE8 /* cmark_gfm.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		9EEA67E12A42DF85008E8EE8 /* Embed Frameworks */ = {
+		9EEA67E92A42E17A008E8EE8 /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				9EEA67E02A42DF85008E8EE8 /* cmark_gfm.xcframework in Embed Frameworks */,
+				9EEA67E82A42E17A008E8EE8 /* cmark_gfm.xcframework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -40,7 +40,7 @@
 		9EEA67CB2A42DA8F008E8EE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9EEA67CE2A42DA8F008E8EE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9EEA67D02A42DA8F008E8EE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9EEA67DE2A42DF85008E8EE8 /* cmark_gfm.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = cmark_gfm.xcframework; path = ../../Carthage/Build/cmark_gfm.xcframework; sourceTree = "<group>"; };
+		9EEA67E62A42E17A008E8EE8 /* cmark_gfm.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = cmark_gfm.xcframework; path = ../../Carthage/Build/cmark_gfm.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +48,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9EEA67DF2A42DF85008E8EE8 /* cmark_gfm.xcframework in Frameworks */,
+				9EEA67E72A42E17A008E8EE8 /* cmark_gfm.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -89,7 +89,7 @@
 		9EEA67D62A42DABB008E8EE8 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				9EEA67DE2A42DF85008E8EE8 /* cmark_gfm.xcframework */,
+				9EEA67E62A42E17A008E8EE8 /* cmark_gfm.xcframework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -104,7 +104,7 @@
 				9EEA67BB2A42DA8E008E8EE8 /* Sources */,
 				9EEA67BC2A42DA8E008E8EE8 /* Frameworks */,
 				9EEA67BD2A42DA8E008E8EE8 /* Resources */,
-				9EEA67E12A42DF85008E8EE8 /* Embed Frameworks */,
+				9EEA67E92A42E17A008E8EE8 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
