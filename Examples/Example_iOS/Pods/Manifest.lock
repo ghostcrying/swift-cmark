@@ -1,0 +1,16 @@
+PODS:
+  - cmark-gfm (0.0.1)
+
+DEPENDENCIES:
+  - cmark-gfm (from `../../`)
+
+EXTERNAL SOURCES:
+  cmark-gfm:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  cmark-gfm: 41530d56376b97650b57572ba7458d67491790d2
+
+PODFILE CHECKSUM: 5f3aafbecab242fc29d9f9e251aed717e83efcf2
+
+COCOAPODS: 1.12.0
