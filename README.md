@@ -27,7 +27,7 @@ pod 'swift-cmark', :git => 'https://github.com/ghostcrying/swift-cmark.git', :ta
 #### Carthage
 
 ```
-git "https://github.com/ghostcrying/swift-cmark.git" "master"
+git "https://github.com/ghostcrying/swift-cmark.git"
 
 # carthage build --no-skip-current --platform iOS --use-xcframeworks
 ```

@@ -14,3 +14,10 @@ FOUNDATION_EXPORT double MarkdownVersionNumber;
 FOUNDATION_EXPORT const unsigned char MarkdownVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <cmark_gfm/PublicHeader.h>
+//
+//#ifndef cmark_gfm_h
+//#define cmark_gfm_h
+//
+//#include "CAtomic.h"
+//
+//#endif /* cmark_gfm_h */
