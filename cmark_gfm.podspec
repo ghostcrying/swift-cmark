@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "cmark_gfm"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "Swift compatible framework for cmark-gfm"
 
   s.description  = <<-DESC
@@ -16,6 +16,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "11.0"
   s.osx.deployment_target = "10.15"
   s.tvos.deployment_target = "9.0"
+  s.watchos.deployment_target = "5.0"
 
   s.source_files = [
     'Sources/*.h',

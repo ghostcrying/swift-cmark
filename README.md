@@ -21,8 +21,7 @@ In your `Package.swift` Swift Package Manager manifest, add the following depend
 #### Cocoapods
 
 ```
-pod 'cmark_gfm', :git => 'https://github.com/ghostcrying/swift-cmark.git', :tag => '0.0.4'
-  # pod install
+pod 'cmark_gfm', :git => 'https://github.com/ghostcrying/swift-cmark.git', :tag => '0.0.5'
 ```
 
 #### Carthage
