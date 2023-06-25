@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
 
   s.name         = "cmark_gfm"
-  s.version      = "0.0.5"
-  s.summary      = "Swift compatible framework for cmark-gfm"
+  s.version      = "0.0.6"
+  s.summary      = "apple's cmark-gfm for cocoapods."
 
   s.description  = <<-DESC
-                   Swift compatible framework for Github's fork of cmark.
+                   Swift compatible framework for Github's fork of apple/swift-cmark.
                    DESC
 
   s.homepage     = "https://github.com/ghostcrying/swift-cmark"
