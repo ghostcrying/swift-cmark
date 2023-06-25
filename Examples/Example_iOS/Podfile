@@ -4,6 +4,6 @@
 target 'Example_iOS' do
   use_frameworks!
 
-  pod 'cmark-gfm', :path => '../../'
+  pod 'cmark_gfm', :path => '../../'
 
 end

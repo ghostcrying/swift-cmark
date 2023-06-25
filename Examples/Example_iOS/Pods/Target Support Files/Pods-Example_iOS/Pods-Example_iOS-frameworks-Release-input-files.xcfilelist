@@ -1,2 +1,2 @@
 ${PODS_ROOT}/Target Support Files/Pods-Example_iOS/Pods-Example_iOS-frameworks.sh
-${BUILT_PRODUCTS_DIR}/cmark-gfm/cmark_gfm.framework
+${BUILT_PRODUCTS_DIR}/cmark_gfm/cmark_gfm.framework

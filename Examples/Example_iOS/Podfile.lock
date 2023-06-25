@@ -1,16 +1,16 @@
 PODS:
-  - cmark-gfm (0.0.1)
+  - cmark_gfm (0.0.3)
 
 DEPENDENCIES:
-  - cmark-gfm (from `../../`)
+  - cmark_gfm (from `../../`)
 
 EXTERNAL SOURCES:
-  cmark-gfm:
+  cmark_gfm:
     :path: "../../"
 
 SPEC CHECKSUMS:
-  cmark-gfm: ae59c490e931c94a06a6189bacac2b5ac42aa6de
+  cmark_gfm: cd00e93e57e3e2e297c575836881b33d40a3dce5
 
-PODFILE CHECKSUM: 5f3aafbecab242fc29d9f9e251aed717e83efcf2
+PODFILE CHECKSUM: 67954edac86759b5a3a079cfc802ea01082cb9e8
 
 COCOAPODS: 1.12.0
